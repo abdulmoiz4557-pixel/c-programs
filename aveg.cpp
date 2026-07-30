@@ -8,6 +8,5 @@ float avg;
 	}
 	avg=n/20;
 	printf("average=%f",avg);
-
 return 0;
 }

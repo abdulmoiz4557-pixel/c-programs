@@ -5,9 +5,6 @@ int main()
 for(k=1;k<=100;k++)
 	{printf("\bfg");
 	}
-	
+
 	return 0;
-	
-	
-	
 }

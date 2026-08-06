@@ -10,6 +10,4 @@ while(n<=255){
 printf("   %3c",n);
 n++;}
 	return 0;
-	
-	
 }

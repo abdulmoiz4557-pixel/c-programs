@@ -9,4 +9,4 @@ for(k=1;k<=n;k+1)
 }
 printf("fictorial=%d",fict);
 return 0;
-}
+ }

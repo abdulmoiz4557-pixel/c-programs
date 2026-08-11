@@ -5,8 +5,6 @@ x=97;
 while(x<=122)
 {printf("\n%c",x);
 	x++;
-	
-	
 }
 
 
